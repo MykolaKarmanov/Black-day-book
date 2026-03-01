@@ -7,6 +7,9 @@ Open Hardware Prior Art Disclosure
 
 Author: Mykola Karmanov
 Contact: karmanov5991@gmail.com
+Date of first publication: 2026-03-01
+Time: 20:27:55 CET
+GitHub commit: https://github.com/MykolaKarmanov/Black-day-book/commit/fa3243b1c501ecfcbfdb64c68a29d66ebf740a3f
 ═══════════════════════════════════════════════════
 
 PRIOR ART DECLARATION
@@ -303,5 +306,7 @@ Full license: creativecommons.org/licenses/by/4.0
 
 Original author: Mykola Karmanov
 Contact: karmanov5991@gmail.com
-
+Date of first publication: 2026-03-01
+Time: 20:27:55 CET
+GitHub commit: https://github.com/MykolaKarmanov/Black-day-book/commit/fa3243b1c501ecfcbfdb64c68a29d66ebf740a3f
 ═══════════════════════════════════════════════════
